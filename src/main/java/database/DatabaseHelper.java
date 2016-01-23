@@ -33,7 +33,5 @@ public class DatabaseHelper {
 
     }
 
-    public static void main(String[] args) {
-        createUser();
-    }
+
 }
